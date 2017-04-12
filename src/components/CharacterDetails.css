@@ -1,0 +1,9 @@
+.character-details {
+	text-align: center;
+	width: 100%;
+}
+
+.character-details__stats-list {
+	list-style-type: none;
+	padding: 0;
+}

@@ -1,0 +1,13 @@
+.character-tile {
+	border-bottom: 1px solid grey;
+	cursor: pointer;
+	margin: 3px 0;
+}
+
+.character-tile__name {
+	margin: 7px 0;
+}
+
+.character-tile__info {
+	margin: 10px 0;
+}
